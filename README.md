@@ -3,9 +3,9 @@
 Analyzing Maven Analytics Restaurant Dataset 
 
 Tools and Technologies used
-Statistical Analysis - IBM SPSS
-CLeansing, combining and exploring - MS SQL Server and MS Excel (Power Query)
-Visualization and EDA - Power BI
+1. Statistical Analysis - IBM SPSS
+2. Cleansing, combining and exploring - MS SQL Server and MS Excel (Power Query)
+3. Visualization and EDA - Power BI
 
 ## 1. What can you learn from the highest rated restaurants? Do consumer preferences have an effect on ratings?
 
